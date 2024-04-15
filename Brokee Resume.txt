@@ -1,0 +1,51 @@
+﻿Jackson Loughmiller
+(209) 588-6841
+jacksonloughmiller1@gmail.com
+Reno, Nevada
+______________________________________________________________________________
+Objective
+Motivated University Junior studying Computer Science and Engineering, seeking a remote summer internship at Brokee Inc. to gain experience in a professional environment, improve skills applicable to industry and explore potential career paths. 
+
+
+Skills and Abilities
+Python, C, C++, Data Structures, Algorithms, Github, ChatGPT, API Integration, Makefile, JSON, Discord, Slack, Microsoft Office, Windows, Linux, Problem solving, Motivated learner, Flexible, 
+        
+Work Experience
+Strawberry Music Festival | 2022-2023
+Job Title:               Festival Management Assistant
+Skills:                  Organizational skills, Independent work ethic, Efficiency, Excel.
+
+
+Mountain Creamery of Twain Harte | 2020 - 2022
+Job Title:                   Ice Cream Shop Associate
+Skills:                        Cash handling, Customer service, Independent work ethic
+
+
+DoorDash | 2021 - Present
+Job Title:                  Dasher 
+Skills:                       Time management, Driving awareness, Customer service, Problem solving,         Independent work ethic.
+
+
+Education
+Columbia College | 2019 - 2023
+Transferred credits, (GPA: 3.8)
+
+
+University of Nevada, Reno | 2023 - Present
+Pursuing Bachelors of Computer Science and Engineering
+Expected degree 2026, (GPA: 3.9)
+
+Cover Letter
+
+Jackson Loughmiller
+Reno, NV
+(209) 588-6841
+jacksonloughmiller1@gmail.com
+February 10, 2024
+Dear Hiring Manager,
+I am excited to be applying for an internship position at Brokee Inc I found through Handshake. Upon reading through the introduction of your company, I found that your unique approach to transforming the hiring process aligns well with my views on the current hiring process, which can become stressful and time consuming for both potential employees and employers. I believe my experience with Python, C, C++, GitHub, and my eagerness to learn new skills would significantly contribute to Brokee's goals. 
+As the final project for my second semester of Python, I participated in a group project coding a program to run on a Raspberry Pi or similar device to measure and keep records of humidity and temperature for use in climate-controlled environments. The program made use of Discord bots to control the system, and included functionality for viewing current temperatures and humidity, trend graphs, and automatic activation of heaters and humidifiers based on desired conditions. We are currently starting the process of a complete redesign to improve the functionality and user-friendliness of the system. We plan to put more time into planning, version control, and usability. This project gave me valuable experience working in a team, using Github, reviewing others' code, debugging, and designing code to work with multiple operating systems.
+In my semesters of learning Python, I was encouraged by my professor to use ChatGPT to aid with coding projects. As a result of this, I gained valuable practice using this tool to increase my efficiency and effectiveness in coding, and I believe this would make me a useful addition to Brokee’s interns. 
+Thank you for your consideration for this position. I am eager to bring my experience with Python, Github, and ChatGPT to contribute to Brokee’s objectives, and look forward to the opportunity to discuss how my skills and enthusiasm can add value to your team.
+Sincerely,
+Jackson Loughmiller
