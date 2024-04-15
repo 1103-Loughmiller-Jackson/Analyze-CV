@@ -40,6 +40,7 @@ if __name__ == "__main__":
 
     qualified, prediction_score = analyze(resume_file, position_name)
 
+    clear_screen()
     if qualified:
         print(f"Yes, {candidate_name} is qualified for the {position_name} position.")
     else:
